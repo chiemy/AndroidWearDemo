@@ -19,9 +19,12 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+
         <activity android:name=".activity.CardActivity"/>
 
         <activity android:name=".activity.CardFragmentActivity"/>
+
+        <activity android:name=".activity.CardFrameActivity"/>
     </application>
 
 </manifest>

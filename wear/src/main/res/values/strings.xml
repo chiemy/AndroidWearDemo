@@ -2,4 +2,6 @@
     <string name="app_name">AndroidWearDemo</string>
     <string name="hello_round">Hello Round World!</string>
     <string name="hello_square">Hello Square World!</string>
+
+    <string name="des">The CardScrollView element detects the shape of the screen and displays the card differently on round and square devices, using wider side margins on round screens. However, placing the CardScrollView element inside a BoxInsetLayout and using the layout_box="bottom" attribute is useful to align the card to the bottom of round screens without cropping its content.</string>
 </resources>
