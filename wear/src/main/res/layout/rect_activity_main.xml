@@ -6,11 +6,10 @@
     tools:context=".MainActivity"
     tools:deviceIds="wear_square">
 
-    <TextView
-        android:id="@+id/text"
+    <android.support.wearable.view.WearableListView
+        android:id="@+id/wearable_lv"
         android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        android:text="Hello World!"
-        android:background="#ff0000"
-        />
+        android:layout_height="match_parent">
+
+    </android.support.wearable.view.WearableListView>
 </LinearLayout>
