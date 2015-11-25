@@ -25,6 +25,10 @@
         <activity android:name=".activity.CardFragmentActivity"/>
 
         <activity android:name=".activity.CardFrameActivity"/>
+
+        <activity android:name=".activity.SendAndSyningDataDemo"/>
+
+        <activity android:name=".activity.ListenData"/>
     </application>
 
 </manifest>
